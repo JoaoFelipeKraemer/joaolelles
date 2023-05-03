@@ -36,10 +36,5 @@
   <img align="center" alt="João-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
 
-##
 
-<div>
-  <a href="https://github.com/joaolelles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolelles&show_icons=true&locale=en&theme=tokyonight" alt="joaolelles" />
-<div/>
 
